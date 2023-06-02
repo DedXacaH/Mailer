@@ -11,6 +11,6 @@ This project is being developed for the practice of C++ language and network arc
     1. Framework: Flutter/Vue;
 
 ## TODO:
-- [ ] Server side;
 - [ ] Database;
+- [ ] Server side;
 - [ ] UI;
